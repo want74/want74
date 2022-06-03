@@ -55,6 +55,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://vk.com/therealk4n"><img src="https://img.shields.io/badge/-@therealk4n-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://vk.com/therealk4n"><img src="https://img.shields.io/badge/-@therealk4n-E4405F?style=flat&logo=vk&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-+79142917801-1877F2?style=flat&logo=phone&logoColor=white"/>
 </p>
