@@ -39,3 +39,5 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php&logoColor=6E81B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=fffff)&nbsp;
+![Parallax JS](https://img.shields.io/badge/-Parallax+JS-05122A?style=flat)&nbsp;
+![Scrollify JS](https://img.shields.io/badge/-Scrollify+JS]-05122A?style=flat)&nbsp;
