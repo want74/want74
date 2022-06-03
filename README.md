@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-  <img src="tenor.gif" height="240" width="370">
+  <img src="tenor.gif" height="300" width="500">
 </p>
 
 ### Кто я?
