@@ -41,3 +41,13 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=fffff)&nbsp;
 ![Parallax JS](https://img.shields.io/badge/-Parallax%20JS-05122A?style=flat)&nbsp;
 ![Scrollify JS](https://img.shields.io/badge/-Scrollify%20JS-05122A?style=flat)&nbsp;
+![Animate.CSS](https://img.shields.io/badge/-Animate.CSS-05122A?style=flat)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/want74">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=want74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=want74&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
