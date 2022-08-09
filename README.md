@@ -59,6 +59,8 @@
 ![Parallax JS](https://img.shields.io/badge/-Parallax%20JS-05122A?style=flat)&nbsp;
 ![Scrollify JS](https://img.shields.io/badge/-Scrollify%20JS-05122A?style=flat)&nbsp;
 ![Animate.CSS](https://img.shields.io/badge/-Animate.CSS-05122A?style=flat)&nbsp;
+![React JS](https://img.shields.io/badge/-react-05122A?style=flat&logo=php&logoColor=6E81B6)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-php-05122A?style=flat&logo=php&logoColor=6E81B6)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
